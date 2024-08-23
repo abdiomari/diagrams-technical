@@ -77,6 +77,9 @@
         <mxCell id="LD2fg-LUMsIoK6R-YnJ3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LD2fg-LUMsIoK6R-YnJ3-37" target="LD2fg-LUMsIoK6R-YnJ3-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LD2fg-LUMsIoK6R-YnJ3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LD2fg-LUMsIoK6R-YnJ3-37" target="LD2fg-LUMsIoK6R-YnJ3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LD2fg-LUMsIoK6R-YnJ3-37" value="Dashboard&amp;nbsp;&lt;div&gt;Updates&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,6 +88,15 @@
         </mxCell>
         <mxCell id="LD2fg-LUMsIoK6R-YnJ3-42" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LD2fg-LUMsIoK6R-YnJ3-44" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LD2fg-LUMsIoK6R-YnJ3-46" value="iot data only" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD2fg-LUMsIoK6R-YnJ3-47" value="Entire System Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="685" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
